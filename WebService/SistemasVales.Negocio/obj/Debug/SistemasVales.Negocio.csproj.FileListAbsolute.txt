@@ -1,0 +1,5 @@
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemasVales.Negocio\bin\Debug\SistemasVales.Negocio.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemasVales.Negocio\bin\Debug\SistemasVales.Negocio.pdb
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemasVales.Negocio\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemasVales.Negocio\obj\Debug\SistemasVales.Negocio.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemasVales.Negocio\obj\Debug\SistemasVales.Negocio.pdb

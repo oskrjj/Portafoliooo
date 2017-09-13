@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaVales.Dao", "SistemaVales.Dao\SistemaVales.Dao.csproj", "{4D0F8ED1-20BF-4C12-A65B-D87516A8437E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemasVales.Negocio", "SistemasVales.Negocio\SistemasVales.Negocio.csproj", "{1A949453-9EB8-4308-8CCD-C87505C02B03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D0F8ED1-20BF-4C12-A65B-D87516A8437E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D0F8ED1-20BF-4C12-A65B-D87516A8437E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D0F8ED1-20BF-4C12-A65B-D87516A8437E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D0F8ED1-20BF-4C12-A65B-D87516A8437E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A949453-9EB8-4308-8CCD-C87505C02B03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A949453-9EB8-4308-8CCD-C87505C02B03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A949453-9EB8-4308-8CCD-C87505C02B03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A949453-9EB8-4308-8CCD-C87505C02B03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

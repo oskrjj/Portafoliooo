@@ -1,0 +1,7 @@
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\bin\Debug\SistemaVales.Dao.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\bin\Debug\SistemaVales.Dao.pdb
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\bin\Debug\Oracle.ManagedDataAccess.EntityFramework.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\obj\Debug\SistemaVales.Dao.csprojResolveAssemblyReference.cache
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\obj\Debug\SistemaVales.Dao.dll
+C:\Users\Oskll\Documents\Visual Studio 2015\Projects\WebService\SistemaVales.Dao\obj\Debug\SistemaVales.Dao.pdb
